@@ -1,3 +1,3 @@
 # basil 
-# Evaluations Java
-# Gestion de téléphone
+Evaluations Java
+Gestion de téléphone
